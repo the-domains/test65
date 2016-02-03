@@ -1,7 +1,7 @@
 name: test65
 favicon: null
 layout_spectrum: 0.5836883198935539
-typography_spectrum: 0.6780687719583511
+typography_spectrum: 0.27281
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#34373f'
+    - '#f30018'
+    - '#979797'
+    - '#009acc'
   brandStrength: 0.2582766155246645
   lightness: 0.5615964897442609
   saturation: 0.9050787393935025
